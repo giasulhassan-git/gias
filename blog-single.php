@@ -29,7 +29,7 @@
   <div class="back-to-top"></div>
 
   <header>
-    <div class="top-bar">
+    <div class="top-bar1">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-8">
