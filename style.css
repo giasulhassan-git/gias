@@ -1,0 +1,19 @@
+/*
+Theme Name: gClassy
+Theme URI: https://facebook.com/giasulhassan.official
+Author: Gias ul Hassan
+Author URI: https://facebook.com/giasulhassan.official
+Description: gClassy WordPress Theme is a lightweight, elegant, fully responsive theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, e-commerce, finance, agency, travel, photography, recipes, design, arts, personal, and other creative websites and blogs. The theme is developed using the Bootstrap 4 framework. It comes with a predesigned home page, good-looking header designs, and several content sections that you can easily customize. It also has lots of customization options that will help you create a beautiful, unique website in no time. It is compatible with popular plugins like WPML, Polylang, WooCommerce and Contact Form 7.
+Version: 1.3.0
+License: GNU General Public License v2 or later
+License URI: <https://www.gnu.org/licenses/gpl-2.0.html>
+Text Domain: gClassy
+Tags: gClassy, GiasulHassan, custom-background, featured Support
+*/
+
+
+
+.sidebar{
+  outline: 1px solid black;
+  padding: 30px;
+}
