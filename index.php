@@ -42,7 +42,7 @@
             <p><?php esc_html_e( 'It looks like nothing was found at this location.', 'gclassy' ); ?></p>
                   
             <?php
-            endf;
+            endif;
             ?>
           </div>
 
